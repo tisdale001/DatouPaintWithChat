@@ -1,0 +1,6 @@
+<map id="include/Paint.hpp" name="include/Paint.hpp">
+<area shape="rect" id="node1" title="Paint actions interface." alt="" coords="121,5,254,32"/>
+<area shape="rect" id="node2" href="$Clear_8cpp.html" title=" " alt="" coords="5,80,111,107"/>
+<area shape="rect" id="node3" href="$main_8cpp.html" title="Entry point into the program." alt="" coords="135,80,240,107"/>
+<area shape="rect" id="node4" href="$Paint_8cpp.html" title="Implementation of Paint.hpp." alt="" coords="265,80,369,107"/>
+</map>

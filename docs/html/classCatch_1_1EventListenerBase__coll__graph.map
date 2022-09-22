@@ -1,0 +1,5 @@
+<map id="Catch::EventListenerBase" name="Catch::EventListenerBase">
+<area shape="rect" id="node1" title="Base class identifying listeners." alt="" coords="11,171,199,197"/>
+<area shape="rect" id="node2" href="$structCatch_1_1IStreamingReporter.html" title=" " alt="" coords="8,95,203,121"/>
+<area shape="rect" id="node3" href="$structCatch_1_1ReporterPreferences.html" title="By setting up its preferences, a reporter can modify Catch2&#39;s behaviour in some regards,..." alt="" coords="5,5,205,32"/>
+</map>

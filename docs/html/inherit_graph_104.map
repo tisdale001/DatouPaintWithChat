@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$structCatch_1_1Matchers_1_1MatcherBase.html" title=" " alt="" coords="5,79,193,120"/>
+<area shape="rect" id="node2" href="$structCatch_1_1Matchers_1_1RegexMatcher.html" title=" " alt="" coords="256,61,485,87"/>
+<area shape="rect" id="node3" href="$structCatch_1_1Matchers_1_1StringMatcherBase.html" title=" " alt="" coords="241,111,500,138"/>
+<area shape="rect" id="node4" href="$structCatch_1_1Matchers_1_1EndsWithMatcher.html" title=" " alt="" coords="565,5,761,47"/>
+<area shape="rect" id="node5" href="$structCatch_1_1Matchers_1_1StartsWithMatcher.html" title=" " alt="" coords="562,71,765,112"/>
+<area shape="rect" id="node6" href="$structCatch_1_1Matchers_1_1StringContainsMatcher.html" title=" " alt="" coords="548,136,779,177"/>
+<area shape="rect" id="node7" href="$structCatch_1_1Matchers_1_1StringEqualsMatcher.html" title=" " alt="" coords="555,201,771,243"/>
+</map>

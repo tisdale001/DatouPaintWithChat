@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/App.dir/src/App.cpp.o CMakeFiles/App.dir/src/Command.cpp.o CMakeFiles/App.dir/src/Draw.cpp.o CMakeFiles/App.dir/src/Paint.cpp.o CMakeFiles/App.dir/src/Clear.cpp.o CMakeFiles/App.dir/src/App_Factory.cpp.o CMakeFiles/App.dir/src/main.cpp.o  -o App  -lpthread -lsfml-graphics -lsfml-window -lsfml-system -lsfml-network -lGL 

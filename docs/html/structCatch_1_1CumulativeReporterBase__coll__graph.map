@@ -1,0 +1,7 @@
+<map id="Catch::CumulativeReporterBase" name="Catch::CumulativeReporterBase">
+<area shape="rect" id="node1" title=" " alt="" coords="90,184,321,211"/>
+<area shape="rect" id="node2" href="$structCatch_1_1IStreamingReporter.html" title=" " alt="" coords="20,95,215,121"/>
+<area shape="rect" id="node3" href="$structCatch_1_1ReporterPreferences.html" title="By setting up its preferences, a reporter can modify Catch2&#39;s behaviour in some regards,..." alt="" coords="5,5,205,32"/>
+<area shape="rect" id="node4" href="$structCatch_1_1IConfig.html" title=" " alt="" coords="263,95,375,121"/>
+<area shape="rect" id="node5" href="$classCatch_1_1Detail_1_1NonCopyable.html" title="Deriving classes become noncopyable and nonmovable." alt="" coords="230,5,431,32"/>
+</map>

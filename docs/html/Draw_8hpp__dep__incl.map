@@ -1,0 +1,8 @@
+<map id="include/Draw.hpp" name="include/Draw.hpp">
+<area shape="rect" id="node1" title="Drawing actions interface." alt="" coords="241,5,376,32"/>
+<area shape="rect" id="node2" href="$App_8cpp.html" title="Main class for program." alt="" coords="5,80,103,107"/>
+<area shape="rect" id="node3" href="$Clear_8cpp.html" title=" " alt="" coords="127,80,232,107"/>
+<area shape="rect" id="node4" href="$Draw_8cpp.html" title=" " alt="" coords="256,80,361,107"/>
+<area shape="rect" id="node5" href="$main_8cpp.html" title="Entry point into the program." alt="" coords="385,80,491,107"/>
+<area shape="rect" id="node6" href="$Paint_8cpp.html" title="Implementation of Paint.hpp." alt="" coords="515,80,619,107"/>
+</map>

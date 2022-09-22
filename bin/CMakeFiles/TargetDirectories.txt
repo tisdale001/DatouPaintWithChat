@@ -1,0 +1,4 @@
+/home/user/CS5500/finalproject-team-15/FinalProject/DatouPaintWithChat/bin/CMakeFiles/rebuild_cache.dir
+/home/user/CS5500/finalproject-team-15/FinalProject/DatouPaintWithChat/bin/CMakeFiles/edit_cache.dir
+/home/user/CS5500/finalproject-team-15/FinalProject/DatouPaintWithChat/bin/CMakeFiles/App_test.dir
+/home/user/CS5500/finalproject-team-15/FinalProject/DatouPaintWithChat/bin/CMakeFiles/App.dir
