@@ -24,4 +24,10 @@ cd into the bin directory
 cmake ..
 make
 ```
+## How to Run
+```
+./App
+```
+The user will be prompted if they want to host. One user hosts and picks a port number. All other users log in using the same port number and begin painting!
+***
 ![DatouPaint_1](https://user-images.githubusercontent.com/53150782/194772337-507bf929-c683-4714-9db3-f8b905270753.PNG)
